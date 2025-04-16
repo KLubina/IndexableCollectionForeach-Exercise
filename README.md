@@ -1,6 +1,6 @@
 # IndexableCollectionForeach-Exercise
 
-Instead of using for I used for each to display a list.
+Instead of using for-loop I used foreach-loop to display a list.
 Adding to this I also removed one element from the list.
 
 Replicated the tutorial from here:
