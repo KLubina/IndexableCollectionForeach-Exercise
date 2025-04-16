@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj": {}
+    "C:\\GitHubDesktop\\IndexableCollections-Exercise\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj": {}
   },
   "projects": {
-    "C:\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj": {
+    "C:\\GitHubDesktop\\IndexableCollections-Exercise\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj",
+        "projectUniqueName": "C:\\GitHubDesktop\\IndexableCollections-Exercise\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj",
         "projectName": "ConsoleAppIndexableCollections",
-        "projectPath": "C:\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj",
+        "projectPath": "C:\\GitHubDesktop\\IndexableCollections-Exercise\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections.csproj",
         "packagesPath": "C:\\Users\\KL3555\\.nuget\\packages\\",
-        "outputPath": "C:\\ConsoleAppIndexableCollections\\ConsoleAppIndexableCollections\\obj\\",
+        "outputPath": "C:\\GitHubDesktop\\IndexableCollections-Exercise\\ConsoleAppIndexableCollections\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
