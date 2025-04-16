@@ -1,4 +1,4 @@
-# IndexableCollections-Exercise
+# IndexableCollectionForeach-Exercise
 
 Instead of using for I used for each to display a list.
 Adding to this I also removed one element from the list.
