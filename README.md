@@ -3,7 +3,7 @@
 Instead of using for I used for each to display a list.
 Adding to this I also removed one element from the list.
 
-Replicated a tutorial from here:
+Replicated the tutorial from here:
 https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/collections#indexable-collections
 
 ##The code
