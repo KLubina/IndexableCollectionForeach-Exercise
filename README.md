@@ -1,4 +1,4 @@
-# IndexableCollectionForeach-Exercise
+# DisplayCollectionWithForeach-Exercise
 
 Instead of using for-loop I used foreach-loop to display a list.
 Adding to this I also removed one element from the list.
